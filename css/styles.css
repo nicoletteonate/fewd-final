@@ -44,7 +44,7 @@ a:hover {
 }
 
 .current {
-  color: #FFFFFF;
+  color: #FFFFFF !important;
   text-decoration: overline;
 }
 
