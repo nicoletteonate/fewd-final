@@ -39,7 +39,7 @@ a {
 }
 
 a:hover {
-  color: #ffffff;
+  color: #fff !important;
   text-decoration: none;
 }
 
