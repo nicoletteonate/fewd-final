@@ -84,7 +84,7 @@ ul > li {
 }
 
 li > a{
-  color: #B9B7AB;
+  color: #B9B7AB !important;
   font-size: 30px;
   font-weight: 200;
 }
@@ -102,13 +102,13 @@ li > a{
 }
 
 #bio a {
-  color: #fff;
+  color: #B9B7AB;
   margin: 0 5px 0 0;
   font-size: 14px;
 
 }
 #bio a:hover {
-  color#B9B7AB;
+  color: #fff;
 }
 #bio > ul {
   padding-left: 0px;
