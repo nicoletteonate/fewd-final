@@ -34,7 +34,7 @@ h4 {
 }
 
 a {
-  color: #fff !important;
+  color: #B9B7AB !important;
   font-weight: 200;
 }
 
@@ -105,8 +105,11 @@ li > a{
   color: #fff;
   margin: 0 5px 0 0;
   font-size: 14px;
-}
 
+}
+#bio a:hover {
+  color#B9B7AB;
+}
 #bio > ul {
   padding-left: 0px;
 }
